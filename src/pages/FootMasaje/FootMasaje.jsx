@@ -5,7 +5,7 @@ import { Container } from 'react-bootstrap';
 const FootMasaje = () => {
     return (
         <Container>
-            FOOTTTTTTTTTTTT
+            FOOTTTTT
 
 
         </Container>
