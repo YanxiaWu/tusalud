@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+
+body {
+    font-family: 'Cinzel', sans-serif;
+}
+
+Link {
+    text-decoration: none !important;
+}
+
+.card-body {
+    background-image: url('/public/img/1.jpg');
+    background-size: cover;
+    height: 500px;
+
+}
+
+.card-title {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.btn {
+    background-color: aliceblue;
+    color: black;
+    border-color: black
+}
+
+.segDiv-1,
+.segDiv-2 {
+    margin-top: 30px;
+}
+
+.segDiv-1 {
+    margin-left: 30px;
+    margin-right: 70px;
+}
+
+.segDiv-2 {
+    margin-right: 20px;
+}
+
+
+
+.footMesaje .card-body {
+    background-image: url('/public/img/4.jpg');
+    background-size: cover;
+    height: 500px;
+    color: azure;
+}
+
+
+.curpoMesaje .card-body {
+    background-image: url('/public/img/5.jpg');
+    background-size: cover;
+    height: 500px;
+    color: azure;
+}
